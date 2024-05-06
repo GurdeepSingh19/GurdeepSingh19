@@ -66,7 +66,7 @@
 ###
 
 <div align="center" style="background: black;border-radius: 10px;">
-<img src="https://raw.githubusercontent.com/GurdeepSingh19/GurdeepSingh19/output/snake.svg" alt="Snake animation" style="background: black;border-radius: 10px;"/>
+<img src="https://raw.githubusercontent.com/GurdeepSingh19/GurdeepSingh19/output/snake.svg" alt="Snake animation"/>
 </div>
 
 ###
