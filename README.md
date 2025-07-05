@@ -48,9 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GurdeepSingh19/GurdeepSingh19/output/random-walk.svg" alt="Random Walk Animation" />
-
-###
 
 <img src="https://raw.githubusercontent.com/GurdeepSingh19/GurdeepSingh19/output/snake.svg" alt="Snake animation"/>
 
