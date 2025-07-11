@@ -49,6 +49,6 @@
 ###
 
 
-<img src="https://raw.githubusercontent.com/GurdeepSingh19/GurdeepSingh19/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/GurdeepSingh19/GurdeepSingh19/main/snake.svg" alt="Snake animation"/>
 
 ###
